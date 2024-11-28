@@ -1,4 +1,4 @@
-package String;
+package Strings;
 
 class StringToInteger {
     public int myAtoi(String s) {
